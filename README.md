@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-windows-blue?color=#4ec820" alt="Platform windows">
   <img src="https://img.shields.io/github/license/hailhydra21/IlluminatedProgressbar.svg" alt="license">
-  <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/total.svg" alt="Download status">
-  <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/latest/total.svg" alt="latest status">
+  <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/total.svg" alt="Download">
+  <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/latest/total.svg" alt="latest">
 </p>
 
 <p align="center">
