@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/hailhydra21/IlluminatedProgressbar/actions/workflows/Windows/badge.svg" alt="Windows">
+  <img src="https://img.shields.io/badge/Platform-Win32" alt="Platform Windows">
   <img src="https://img.shields.io/github/license/hailhydra21/IlluminatedProgressbar.svg" alt="license">
   <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/total.svg" alt="Download status">
   <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/latest/total.svg" alt="latest status">
 </p>
 
 <p align="center">
-English | <a href="README_zh_CN.md">简体中文</a>
+  English | <a href="README_zh_CN.md">简体中文</a>
 </p>
 
 ## Preview
