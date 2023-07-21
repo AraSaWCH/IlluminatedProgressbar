@@ -8,9 +8,8 @@
 <p align="center">
   Creation based on QML6.5.
 </p>
-</p>
+
 ![win-badge] ![license-badge] ![download-badge] ![download-latest]
-</p>
 
 [win-badge]: https://github.com/hailhydra21/IlluminatedProgressbar/workflows/Windows/badge.svg  "Windows"
 [license-badge]: https://img.shields.io/github/license/hailhydra21/IlluminatedProgressbar.svg "license"
