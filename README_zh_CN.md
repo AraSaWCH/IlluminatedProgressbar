@@ -6,7 +6,7 @@
   IlluminatedProgressbar
 </h1>
 <p align="center">
-  基于QML6.5开发，新拟态风格+渐变+跟随渐变的外发光进度条。
+  基于QML6.5开发的新拟态风格+渐变填充+跟随渐变色的外发光进度条。
 </p>
 
 <p align="center">
