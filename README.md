@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Win32" alt="Platform Windows">
+  <img src="https://img.shields.io/badge/Platform-Win32" alt="Platform Win32">
   <img src="https://img.shields.io/github/license/hailhydra21/IlluminatedProgressbar.svg" alt="license">
   <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/total.svg" alt="Download status">
   <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/latest/total.svg" alt="latest status">
