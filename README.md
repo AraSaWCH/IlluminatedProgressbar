@@ -1,5 +1,5 @@
 <div align=center>
-  <img width=64 src="alphabet.ico">
+  <img width="18%" src="alphabet.ico">
 </div>
 
 <h1 align="center">
@@ -9,12 +9,12 @@
   Creation based on QML6.5.
 </p>
 
-![win-badge] ![license-badge] ![download-badge] ![download-latest]
-
-[win-badge]: https://github.com/hailhydra21/IlluminatedProgressbar/workflows/Windows/badge.svg  "Windows"
-[license-badge]: https://img.shields.io/github/license/hailhydra21/IlluminatedProgressbar.svg "license"
-[download-badge]: https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/total.svg "Download status"
-[download-latest]: https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/latest/total.svg "latest status"
+<p align="center">
+  <img src="https://github.com/hailhydra21/IlluminatedProgressbar/actions/workflows/Windows/badge.svg" alt="Windows">
+  <img src="https://img.shields.io/github/license/hailhydra21/IlluminatedProgressbar.svg" alt="license">
+  <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/total.svg" alt="Download status">
+  <img src="https://img.shields.io/github/downloads/hailhydra21/IlluminatedProgressbar/latest/total.svg" alt="latest status">
+</p>
 
 <p align="center">
 English | <a href="README_zh_CN.md">简体中文</a>
